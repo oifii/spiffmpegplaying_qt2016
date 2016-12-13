@@ -1,0 +1,2 @@
+spiffmpegplaying_qt2016.c started as a copy of ffplay.c,
+more precisely D:\oifii-org\httpdocs\ns-org\nsd\ar\cp\video_ffmpeg\ffplay.c

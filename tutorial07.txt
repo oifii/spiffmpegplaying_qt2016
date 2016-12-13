@@ -1,0 +1,2 @@
+tutorial07.c comes from D:\telechargements\ffmpegtutorial\ffmpegtutorial
+which comes from http://dranger.com/ffmpeg/
